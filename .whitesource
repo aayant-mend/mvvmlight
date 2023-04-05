@@ -1,8 +1,7 @@
 {
   "settingsInheritedFrom": "aayant-mend/whitesource-config@main",
   "scanSettings": {
-    "configMode": "AUTO",
-	    "baseBranches": ["master", "Samples"]
+    "baseBranches": ["master","Samples"]
   }
 }
 
